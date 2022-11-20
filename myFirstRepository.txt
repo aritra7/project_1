@@ -1,3 +1,5 @@
 welcome to my first repository
 
 let's begin ...
+
+next I'll be adding some codes, currenty I'm practicing some features of git.
